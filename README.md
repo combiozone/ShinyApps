@@ -1,7 +1,7 @@
 
 # Shiny Applications
 
-These Shiny applications were developed to support rapid, interactive exploration of genes of interest and motif activity in single-cell and multi-omics datasets.
+These Shiny applications were developed to support rapid, interactive exploration of genes of interest and motif activity in single-cell datasets.
 
 ## Applications
 
