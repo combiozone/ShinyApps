@@ -3,10 +3,12 @@
 
 These Shiny applications were developed to support rapid, interactive exploration of genes of interest and motif activity in single-cell and multi-omics datasets.
 
-#### * 10x Multiome Mouse Development Seurat Object
-https://combiozone.shinyapps.io/mm_dev/
+## Applications
 
-#### * 10x Multiome Mouse IUE ZFTA-RELA Seurat Object
-https://combiozone.shinyapps.io/mm_iue_zr/
+- **10x Multiome Mouse Development Seurat Object**  
+  https://combiozone.shinyapps.io/mm_dev/
+
+- **10x Multiome Mouse IUE ZFTA-RELA Seurat Object**  
+  https://combiozone.shinyapps.io/mm_iue_zr/
 
 
