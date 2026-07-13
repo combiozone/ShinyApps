@@ -3,8 +3,8 @@
 
 These Shiny applications were developed to support rapid, interactive exploration of genes of interest and motif activity in single-cell datasets.
 
-## Applications
-
+## 10xMultiome (Gene expression + Motif activity)
+> The motif used the JASPAR ID: https://jaspar.elixir.no/
 - **10x Multiome Mouse Development Seurat Object**  
   https://combiozone.shinyapps.io/mm_dev/
 
